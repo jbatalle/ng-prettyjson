@@ -7,8 +7,8 @@
     "email": "darul75@gmail.com"
   },
   "main": [
-    "./src/ng-prettyjson.js",
-    "./src/ng-prettyjson.css"
+    "./dist/ng-prettyjson.min.js",
+    "./dist/ng-prettyjson.min.css"
   ],
   "homepage": "https://github.com/darul75/ng-prettyjson",
   "repository": {

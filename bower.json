@@ -10,10 +10,10 @@
     "./dist/ng-prettyjson.min.js",
     "./dist/ng-prettyjson.min.css"
   ],
-  "homepage": "https://github.com/darul75/ng-prettyjson",
+  "homepage": "https://github.com/jbatalle/ng-prettyjson",
   "repository": {
     "type": "git",
-    "url": "https://github.com/darul75/ng-prettyjson.git"
+    "url": "https://github.com/jbatalle/ng-prettyjson.git"
   },
   "keywords": [
     "angular",
